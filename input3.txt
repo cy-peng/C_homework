@@ -1,0 +1,10 @@
+1 Emma 74 52 94
+2 Zoe 86 42 77
+3 Sydney 91 85 68
+4 Avery 75 98 52
+5 Julia 74 85 97
+6 Samantha 71 74 95
+7 Carl 74 89 91
+8 Bruce 94 45 77
+9 Neil 41 79 85
+10 Robert 92 86 74
